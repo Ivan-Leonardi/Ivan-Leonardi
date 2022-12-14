@@ -3,7 +3,9 @@
 [![Card](https://img.shields.io/website?label=ProfileCard-IvanLeonardi&style=for-the-badge&url=https://cardleonardi.netlify.app/)](https://cardleonardi.netlify.app/)
 [![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leonardi-41b317242/)
 
-![Leonardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Leonardi&show_icons=true&theme=tokyonight)
+![Leonardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Leonardi&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Leonardi&layout=compact)](https://github.com/Ivan-Leonardi/github-readme-stats)
+
 
 ## Tecnologias que uso no meu dia
 
