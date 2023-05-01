@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ivan Leonardi ✌️
 
-[![Card](https://img.shields.io/website?label=ProfileCard-IvanLeonardi&style=for-the-badge&url=https://cardleonardi.netlify.app/)](https://cardleonardi.netlify.app/)
+[![Web](https://img.shields.io/website?label=Portfolio-IvanLeonardi&style=for-the-badge&url=https://ivandev.vercel.app/)](https://ivandev.vercel.app/)
 [![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leonardi-41b317242/)
 
 ![Leonardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Leonardi&show_icons=true&theme=tokyonight)<br/>
@@ -18,6 +18,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br/>
 
-Apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas pela Universidade São Francisco, aprendendo cada dia um pouco do universo da progamação.
+Trabalho com as mais recentes tecnologias, como React, Styled Components, Tailwind, etc, para garantir que minhas soluções sejam escaláveis e eficientes.
 
 
