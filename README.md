@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ivan Leonardi ✌️
 
-[![Web](https://img.shields.io/website?label=Portfolio-IvanLeonardi&style=for-the-badge&url=https://ivandev.vercel.app/)](https://ivandev.vercel.app/)
+[![Web](https://img.shields.io/website?label=Portfolio-IvanLeonardi&style=for-the-badge&url=https://ivandev.vercel.app/)](https://www.techdevsolutions.com.br/)
 [![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leonardi-41b317242/)
 
 ![Leonardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Leonardi&show_icons=true&theme=tokyonight)<br/>
