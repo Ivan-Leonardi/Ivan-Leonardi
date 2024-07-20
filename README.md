@@ -1,5 +1,5 @@
 ### Bem vindo ✌️
-# Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor React e Node.js. 
+#Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor React e Node.js. 
 Possuo conhecimento em JavaScript, TypeScript, HTML, CSS e bibliotecas e frameworks, como Express, TailwindCSS. Além disso, estou familiarizado com bancos de dados SQL, e metodologias ágeis.
 
 [![Web](https://img.shields.io/website?label=Web-Site-IvanLeonardi&style=for-the-badge&url=https://ivandev.vercel.app/)](https://www.techdevsolutions.com.br/)
