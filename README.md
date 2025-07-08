@@ -1,6 +1,7 @@
 ### Bem vindo ✌️
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor React e Node.js. 
+Formado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Computação, atuo como desenvolvedor fullstack React e Node.js. 
 Possuo conhecimento em JavaScript, TypeScript, HTML, CSS e bibliotecas e frameworks, como Express, TailwindCSS. Além disso, estou familiarizado com bancos de dados SQL, e metodologias ágeis.
+Aprendendo e conhecendo o universo Java e Spring Boot.
 
 [![Web](https://img.shields.io/website?label=Web-Site-IvanLeonardi&style=for-the-badge&url=https://ivandev.vercel.app/)](https://www.techdevsolutions.com.br/)
 [![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leonardi-41b317242/)
