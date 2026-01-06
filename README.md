@@ -1,13 +1,8 @@
 ### Bem vindo ✌️
-Formado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Computação, atuo como desenvolvedor fullstack React e Node.js. 
-Possuo conhecimento em JavaScript, TypeScript, HTML, CSS e bibliotecas e frameworks, como Express, TailwindCSS. Além disso, estou familiarizado com bancos de dados SQL, e metodologias ágeis.
-Aprendendo e conhecendo o universo Java e Spring Boot.
+Desenvolvedor de software em início de carreira, com experiência no desenvolvimento de aplicações web e APIs, atuando principalmente com React.js no frontend e Node.js no backend, além de estudos e prática com Java e Spring Boot. Possuo vivência em projetos pessoais e freelances, desenvolvendo sites, landing pages e sistemas web, sempre aplicando boas práticas de desenvolvimento e organização de código.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente curso Engenharia da Computação pela UNIVESP. Encontro-me em transição de carreira para a área de tecnologia, trazendo do setor público habilidades como disciplina, resiliência, comprometimento e capacidade de atuar sob pressão, que aplico diretamente no aprendizado e desenvolvimento de software.
 
-[![Web](https://img.shields.io/website?label=Web-Site-IvanLeonardi&style=for-the-badge&url=https://ivandev.vercel.app/)](https://www.techdevsolutions.com.br/)
 [![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leonardi-41b317242/)
-
-![Leonardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Leonardi&show_icons=true&theme=tokyonight)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Leonardi&layout=compact)](https://github.com/Ivan-Leonardi/github-readme-stats)
 
 
 ## Tecnologias que estudo no dia a dia
@@ -29,5 +24,3 @@ Aprendendo e conhecendo o universo Java e Spring Boot.
 
   
 </div> <br/>
-
-🚀🚀🚀
